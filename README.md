@@ -7,8 +7,6 @@
 - 👯 I’m looking to collaborate on qa
 - 🤔 I’m looking for help with qa
 - 💬 Ask me about ...
-- 📫 How to reach me: https://t.me/mor_eena
-- 😄 Pronouns: ...
 - ⚡ Fun fact: i dont like chewgum
 
 ![тыж программист](https://oir.mobi/uploads/posts/2021-03/1616587122_19-p-programmirovanie-fon-25.jpg)
