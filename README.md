@@ -1,5 +1,5 @@
-### Hello to my web world!
-## My name is Christina and here is my hard way to QA and may be in one day to Python developer:)
+#### Hello to my web world!
+# My name is Christina and here is my hard way to QA and may be in one day to Python developer:)
 [Linkedin](https://www.linkedin.com/in/kristina-ivanova-72874915a/)
 
 - 🔭 I’m currently working on freelance
