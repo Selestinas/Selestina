@@ -9,7 +9,7 @@
 - 💬 Ask me about ...
 - ⚡ Fun fact: i dont like chewgum
 
-![тыж программист](https://oir.mobi/uploads/posts/2021-03/1616587122_19-p-programmirovanie-fon-25.jpg)
+
 
 
 
