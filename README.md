@@ -2,11 +2,8 @@
 #### My name is Christina and here is my hard way to QA and may be in one day to Python developer:)
 [Linkedin](https://www.linkedin.com/in/kristina-ivanova-72874915a/)
 
-- 🔭 I’m currently working on freelance
-- 🌱 I’m currently learning Qa and Python
-- 👯 I’m looking to collaborate on qa
-- 🤔 I’m looking for help with qa
-- 💬 Ask me about ...
+- 🔭 I’m currently working шт DevTeam 
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: i dont like chewgum
 
 
